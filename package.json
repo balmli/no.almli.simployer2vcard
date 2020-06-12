@@ -1,0 +1,22 @@
+{
+  "name": "no.almli.simployer2vcard",
+  "version": "0.0.1",
+  "description": "Convert from Simployer CSV to vCard for MacOs contacts",
+  "main": "convert.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balmli/no.almli.simployer2vcard.git"
+  },
+  "author": "Bjørnar Almli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balmli/no.almli.simployer2vcard/issues"
+  },
+  "homepage": "https://github.com/balmli/no.almli.simployer2vcard#readme",
+  "dependencies": {
+    "csv-parse": "^4.10.1",
+    "stream-transform": "^2.0.2",
+    "vcards-js": "^2.10.0"
+  }
+}
